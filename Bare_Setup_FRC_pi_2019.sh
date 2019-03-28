@@ -13,7 +13,7 @@
 #ENABLE_SSH=1
 
 #
-# This all came from here Match 2019:
+# This all came from here March 2019:
 #
 # https://github.com/wpilibsuite/FRCVision-pi-gen/
 #
